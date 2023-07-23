@@ -4,5 +4,5 @@ void main(){
     int b;
     scanf("%d",&a);
     printf("hello%d",a);
-    printf("second commit")
+    printf("second commit");
 }
